@@ -1,0 +1,69 @@
+2023-12-12 16:12:967 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:93 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-12 16:12:916 INFO  HomePage :40 - Get pageTitle text : Computers
+2023-12-12 16:12:351 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:313 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-12 16:12:809 INFO  HomePage :49 - Click on 'Desktops' link
+2023-12-12 16:12:400 INFO  HomePage :48 - Get pageTitle text Desktops
+2023-12-12 16:12:610 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:928 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-12 16:12:690 INFO  HomePage :49 - Click on 'Desktops' link
+2023-12-12 16:12:278 INFO  HomePage :71 - Click on product 'Build your own computer' : Build your own computer
+2023-12-12 16:12:975 INFO  HomePage :72 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2023-12-12 16:12:36 INFO  HomePage :79 - Select RAM '2 GB'
+2023-12-12 16:12:80 INFO  HomePage :88 - Select HDD '320 GB'
+2023-12-12 16:12:120 INFO  HomePage :100 - Select HDD 'Vista Home [+$50.00]'
+2023-12-12 16:12:163 INFO  HomePage :112 - Select Software '[[ChromeDriver: chrome on windows (5572509ceef9e330fb209eb40cd0e22c)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-12 16:12:199 INFO  HomePage :122 - Click on 'ADD TO CART' Button
+2023-12-12 16:12:867 INFO  HomePage :129 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-12 16:12:141 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:600 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-12 16:12:378 INFO  HomePage :49 - Click on 'Desktops' link
+2023-12-12 16:12:218 INFO  HomePage :71 - Click on product 'Build your own computer' : Build your own computer
+2023-12-12 16:12:214 INFO  HomePage :72 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-12 16:12:281 INFO  HomePage :79 - Select RAM '4GB [+$20.00]'
+2023-12-12 16:12:330 INFO  HomePage :88 - Select HDD '400 GB [+$100.00]'
+2023-12-12 16:12:380 INFO  HomePage :100 - Select HDD 'Vista Premium [+$60.00]'
+2023-12-12 16:12:427 INFO  HomePage :112 - Select Software '[[ChromeDriver: chrome on windows (633cf345107955cb0d20c4242d95c567)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-12 16:12:460 INFO  HomePage :122 - Click on 'ADD TO CART' Button
+2023-12-12 16:12:136 INFO  HomePage :129 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-12 16:12:370 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:564 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-12 16:12:17 INFO  HomePage :49 - Click on 'Desktops' link
+2023-12-12 16:12:434 INFO  HomePage :71 - Click on product 'Build your own computer' : Build your own computer
+2023-12-12 16:12:957 INFO  HomePage :72 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-12 16:12:25 INFO  HomePage :79 - Select RAM '8GB [+$60.00]'
+2023-12-12 16:12:69 INFO  HomePage :88 - Select HDD '320 GB'
+2023-12-12 16:12:113 INFO  HomePage :100 - Select HDD 'Vista Home [+$50.00]'
+2023-12-12 16:12:170 INFO  HomePage :112 - Select Software '[[ChromeDriver: chrome on windows (78903de2df0ba99d423eecbb07a6d051)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-12 16:12:206 INFO  HomePage :122 - Click on 'ADD TO CART' Button
+2023-12-12 16:12:622 INFO  HomePage :129 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-12 16:12:879 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:19 INFO  HomePage :55 - Click on loginLink : Log in
+2023-12-12 16:12:951 INFO  HomePage :49 - Get welcomeText : Welcome, Please Sign In!
+2023-12-12 16:12:251 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:380 INFO  HomePage :55 - Click on loginLink : Log in
+2023-12-12 16:12:906 INFO  HomePage :58 - Enter EmailId 'prime123@gmail.com' to email field : 
+2023-12-12 16:12:07 INFO  HomePage :67 - Enter Password 'prime123' to password field : 
+2023-12-12 16:12:368 INFO  HomePage :75 - Click on loginButton
+2023-12-12 16:12:412 INFO  HomePage :82 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2023-12-12 16:12:627 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:286 INFO  HomePage :55 - Click on loginLink : Log in
+2023-12-12 16:12:313 INFO  HomePage :58 - Enter EmailId 'EifdC@gmail.com' to email field : 
+2023-12-12 16:12:398 INFO  HomePage :67 - Enter Password 'Prime123' to password field : 
+2023-12-12 16:12:775 INFO  HomePage :75 - Click on loginButton
+2023-12-12 16:12:339 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:982 INFO  HomePage :55 - Click on loginLink : Log in
+2023-12-12 16:12:946 INFO  HomePage :58 - Enter EmailId 'EifdC@gmail.com' to email field : 
+2023-12-12 16:12:21 INFO  HomePage :67 - Enter Password 'Prime123' to password field : 
+2023-12-12 16:12:591 INFO  HomePage :75 - Click on loginButton
+2023-12-17 13:12:928 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-17 13:12:350 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-17 13:12:915 INFO  HomePage :40 - Get pageTitle text : Computers
+2023-12-17 13:12:466 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-17 13:12:649 INFO  HomePage :70 - Click on registerLink : Register
+2023-12-17 13:12:123 INFO  HomePage :88 - Get registerText : Register
+2023-12-17 13:12:327 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-17 13:12:513 INFO  HomePage :55 - Click on loginLink : Log in
+2023-12-17 13:12:403 INFO  HomePage :49 - Get welcomeText : Welcome, Please Sign In!
